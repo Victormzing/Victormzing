@@ -65,7 +65,6 @@ I break things → then panic → then fix them → then pretend it was all part
 ---
 🏆 Badges
 <p align="left"> <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/Backend-Django-darkgreen?style=for-the-badge&logo=django"> <img src="https://img.shields.io/badge/Security-Kali_Linux-black?style=for-the-badge&logo=kalilinux"> <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql"> </p>
----
 
 ## 🏆 Random Achievements
 
