@@ -51,12 +51,12 @@ I break things → then panic → then fix them → then pretend it was all part
 ## 📈 My GitHub Stats (don’t judge)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorgichaga&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=victorgichaga&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Victormzing&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Victormzing&theme=radical" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgichaga&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victormzing&layout=compact&theme=radical" height="160" />
 </p>
 
 > Yes, the stats are real.
