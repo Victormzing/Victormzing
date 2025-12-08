@@ -42,7 +42,7 @@ I break things → then panic → then fix them → then pretend it was all part
 
 * 🔐 Hotspot billing systems (the WiFi that asks for money)
 * 🛒 E-commerce stores powered by M-Pesa (because cash is overrated)
-* 🗄️ File tracking systems (for when people keep losing files… again)
+* 🗄️ Websites
 * 📦 Inventory & sales dashboards with charts that make managers feel powerful
 * 🧠 AI forecasting tools (for predicting the future… kind of)
 
