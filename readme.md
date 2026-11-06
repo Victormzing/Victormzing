@@ -1,6 +1,6 @@
 
 
-# 👋 Hey there, I'm Victor Gichaga
+#  Hey there, I'm Victor Gichaga
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Bug+Creator+%26+Bug+Fixer;Professional+Googler;Django+%2B+React+Wizard;Cybersecurity+Side+Quest+Hero" />
@@ -8,20 +8,20 @@
 
 ---
 
-## 😂 Who Am I?
+##  Who Am I?
 
 I'm **Victor**, a full-stack developer who writes code that works…
 **most of the time**,
 **on the right computer**,
 **in the right timezone**,
-**during the right phase of the moon** 🌙.
+**during the right phase of the moon** .
 
 I’m also a cybersecurity enthusiast, which basically means:
-I break things → then panic → then fix them → then pretend it was all part of the plan. 😎
+I break things → then panic → then fix them → then pretend it was all part of the plan. 
 
 ---
 
-## 🛠️ Tech Stack (a.k.a. My Superpowers)
+##  Tech Stack (a.k.a. My Superpowers)
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,react,postgres,js,tailwind,linux,bash&perline=10" />
@@ -38,17 +38,17 @@ I break things → then panic → then fix them → then pretend it was all part
 
 ---
 
-## 🚀 What I Build (When Caffeine is Available)
+##  What I Build (When Caffeine is Available)
 
-* 🔐 Hotspot billing systems (the WiFi that asks for money)
-* 🛒 E-commerce stores powered by M-Pesa (because cash is overrated)
-* 🗄️ Websites
-* 📦 Inventory & sales dashboards with charts that make managers feel powerful
-* 🧠 AI forecasting tools (for predicting the future… kind of)
+*  Hotspot billing systems (the WiFi that asks for money)
+*  E-commerce stores powered by M-Pesa (because cash is overrated)
+*  Websites
+*  Inventory & sales dashboards with charts that make managers feel powerful
+*  AI forecasting tools (for predicting the future… kind of)
 
 ---
 
-## 📈 My GitHub Stats (don’t judge)
+##  My GitHub Stats (don’t judge)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Victormzing&show_icons=true&theme=radical" height="160" />
@@ -60,13 +60,13 @@ I break things → then panic → then fix them → then pretend it was all part
 </p>
 
 > Yes, the stats are real.
-> No, I don’t know why JavaScript is always watching me. 👀
+> No, I don’t know why JavaScript is always watching me. 
 
 ---
-🏆 Badges
+ Badges
 <p align="left"> <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/Backend-Django-darkgreen?style=for-the-badge&logo=django"> <img src="https://img.shields.io/badge/Security-Kali_Linux-black?style=for-the-badge&logo=kalilinux"> <img src="https://img.shields.io/badge/Database-PostgreSQL-blue?style=for-the-badge&logo=postgresql"> </p>
 
-## 🏆 Random Achievements
+##  Random Achievements
 
 * Survived a production deployment without crying
 * Googled the same error 17 times in one day
@@ -75,7 +75,7 @@ I break things → then panic → then fix them → then pretend it was all part
 
 ---
 
-## 🎯 Goals for 2025
+##  Goals for 2025
 
 * Become the kind of developer who doesn’t say “it works on my machine”
 * Master Docker instead of fighting it
@@ -84,7 +84,7 @@ I break things → then panic → then fix them → then pretend it was all part
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 * 📧 Email: gichagav@gmail.com
 * 🌐 Portfolio: --
@@ -92,7 +92,7 @@ I break things → then panic → then fix them → then pretend it was all part
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 I debug with console.log, faith, and pure luck.
 
